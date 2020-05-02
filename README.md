@@ -15,7 +15,7 @@ Abstract: High-resolution remote sensing images (HRRSIs) contain substantial gro
 The manuscript can be visited at https://ieeexplore.ieee.org/document/9081937 or https://arxiv.org/abs/1912.09121
 
 If this repo is useful in your research, please kindly consider citing our paper as follow.
-'''
+```
 Tex
 Haifeng Li, Kaijian Qiu, Li Chen, Xiaoming Mei, Liang Hong, Chao Tao*. SCAttNet: Semantic Segmentation Network With Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images. IEEE Geoscience and Remote Sensing Letters. 2020:1-5. DOI: 10.1109/LGRS.2020.2988294 
 
@@ -43,4 +43,4 @@ Endnote
 %B IEEE Geoscience and Remote Sensing Letters
 %R DOI:10.1109/LGRS.2020.2988294
 %! SCAttNet: Semantic Segmentation Network With Spatial and Channel Attention Mechanism for High-Resolution Remote Sensing Images
-'''
+```
